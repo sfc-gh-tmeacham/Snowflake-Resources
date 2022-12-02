@@ -1,4 +1,4 @@
-### Curated collection of links to various Snowflake resources on the web
+### Don't Panic! A Curated collection of links to various Snowflake resources on the web
 
 
 ## Snowflake Enablement:
