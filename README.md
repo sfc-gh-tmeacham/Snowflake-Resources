@@ -1,7 +1,7 @@
-# Snowflake-Resources
-Curated collection of links to various Snowflake resources on the web
+### Curated collection of links to various Snowflake resources on the web
 
-**Snowflake Enablement:**
+
+## Snowflake Enablement:
 
 1. [Snowflake Documentation
 ](https://docs.snowflake.com/en/index.html)  
@@ -33,7 +33,7 @@ Always worth checking out to see if there is something interesting coming up.
 11. [Snowflake: The Definite Guide E-Book](https://resources.snowflake.com/ebooks/snowflake-definitive-guide#main-content)  
 "Snowflake: The Definitive Guide" written by [Joyce Kay Avila](https://www.linkedin.com/in/joycekayavila/), a Snowflake Data Superhero with more than 25 years of experience as a business and technology leader.
 
-**Streamlit:**
+## Streamlit:
 
 1. [Official Site](https://streamlit.io/)[
 ](https://www.youtube.com/user/snowflakecomputing/videos)  
@@ -45,7 +45,7 @@ Learn how to build a Streamlit app in digestible chunks. Site built using Stream
 4. [Streamlit Cheat Sheet](https://docs.streamlit.io/library/cheatsheet)  
 Trying to remember some specific syntax? Try looking here!
 
-**Media:**
+## Media:
 
 1. [Snowflake on YouTube
 ](https://www.youtube.com/user/snowflakecomputing/videos)  
@@ -54,7 +54,7 @@ Official Snowflake YouTube channel, subscribe for workload tips, webinars, and m
 ](https://www.snowflake.com/rise-of-the-data-cloud-podcast/)  
 Learn how other data leaders are leveraging Snowflake to achieve their business goals. Apple, Spotify, and YouTube.
 
-**Community / Forums:**
+## Community / Forums:
 
 1. [Data Heroes](https://community.snowflake.com/s/)[ Community
 ](https://community.snowflake.com/s/)  
@@ -65,7 +65,7 @@ Ask and answer the most challenging technical questions related to Snowflake.
 3. [Snowflake subreddit](https://www.reddit.com/r/snowflake/)  
 Unofficial subreddit for discussion relating to the Snowflake Data Cloud
 
-**Blogs:**
+## Blogs:
 
 1. [Inside the Data Cloud
 ](https://www.snowflake.com/blog/)  
@@ -74,7 +74,7 @@ Get the latest information from the official Snowflake Blog
 ](https://medium.com/snowflake)  
 Tips, tricks, and more from Snowflake community engineering voices. Submissions welcome!
 
-**Snowflake Status and Release Notes:**
+## Snowflake Status and Release Notes:
 
 1. [Release Notes
 ](https://docs.snowflake.com/en/release-notes.html)  
@@ -83,13 +83,13 @@ Things move pretty fast in the data cloud. What's new? What changed
 ](https://status.snowflake.com/)  
 Real-time and historical data on system performance.
 
-**Snowflake Data Marketplace:**
+## Snowflake Data Marketplace:
 
 1. [Data Marketplace Directory
 ](https://app.snowflake.com/marketplace)  
 Search existing datasets and request new ones. 1700+ Listings and growing!
 
-**Miscellaneous:**
+## Miscellaneous:
 
 1. [Official Snowflake Resources](https://resources.snowflake.com/)  
 A searchable collection of whitepapers, videos, blog posts, and more.
@@ -102,7 +102,7 @@ This table lists all known 3rd-party partners and technologies that have been ce
 ](https://github.com/Snowflake-Labs/awesome-snowflake)  
 This is, yet another, curated list of Snowflake Resources
 
-**Snowflake Workloads Overview (with video, resources, and use cases):**
+## Snowflake Workloads Overview (with video, resources, and use cases):
 
 - [Data Lake
 ](https://www.snowflake.com/workloads/data-lake/)  
@@ -126,7 +126,7 @@ Protect your enterprise with unified data, near-unlimited visibility, and powerf
 - [Unistore](https://www.snowflake.com/workloads/unistore/)  
 A modern approach to working with transactional and analytical data together in a single platform (coming soon)
 
-**People to follow on Social Media:**
+## People to follow on Social Media:
 
 - Felipe Hoffa, Data Cloud Advocate at Snowflake
   - [LinkedIn](https://www.linkedin.com/in/hoffa/)
