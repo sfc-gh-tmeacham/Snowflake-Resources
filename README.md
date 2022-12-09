@@ -14,23 +14,25 @@ Free self-paced Snowflake training with proof of progress.
 This is an ever-growing collection of hands-on labs/guides around any number of topics.
 4. [Snowflake Labs on GitHub](https://github.com/Snowflake-Labs)  
  Check out some cool (pun intended) open-source projects hosted by Snowflake. This includes things like an Excel add-in, change management tools, external function example code, and more!
-5. [Snowflake Clients and Connectors](https://developers.snowflake.com/drivers-and-libraries/)  
+5. [Frosty_Friday()](https://frostyfriday.org/)  
+Frosty Friday, a series of weekly challenges released every Friday to help you practice and develop your Snowflake skills, created by Snowflake users, for Snowflake users. Each challenge will be based on one Snowflake feature.
+6. [Snowflake Clients and Connectors](https://developers.snowflake.com/drivers-and-libraries/)  
 Snowflake provides a set of clients for connecting to Snowflake based on your specific environment.
-6. [Snowflake SQL API (V2) Postman collection](https://api.developers.snowflake.com/)  
+7. [Snowflake SQL API (V2) Postman collection](https://api.developers.snowflake.com/)  
 The Snowflake SQL API is a REST API that you can use to access and update data in a Snowflake database.
-7. [Get SnowPro Certified
+8. [Get SnowPro Certified
 ](https://www.snowflake.com/certifications/)  
 Learn about our proctored exams and find study guides.
-8. [Tutorials, Videos, Docs, and Other Resources
+9. [Tutorials, Videos, Docs, and Other Resources
 ](https://docs.snowflake.com/en/other-resources.html)  
 Assorted "how-to" tutorials/labs and "best practices", as well as videos, for using Snowflake
-9. [Snowflake Developers portal
+10. [Snowflake Developers portal
 ](https://developers.snowflake.com/)  
 This Snowflake page is dedicated to developers and app builders.
-10. [Webinars
+11. [Webinars
 ](https://www.snowflake.com/about/webinars/)  
 Always worth checking out to see if there is something interesting coming up.
-11. [Snowflake: The Definite Guide E-Book](https://resources.snowflake.com/ebooks/snowflake-definitive-guide#main-content)  
+12. [Snowflake: The Definite Guide E-Book](https://resources.snowflake.com/ebooks/snowflake-definitive-guide#main-content)  
 "Snowflake: The Definitive Guide" written by [Joyce Kay Avila](https://www.linkedin.com/in/joycekayavila/), a Snowflake Data Superhero with more than 25 years of experience as a business and technology leader.
 
 ## Streamlit:
